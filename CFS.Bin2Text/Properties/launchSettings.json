@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CFS.Bin2Text": {
+      "commandName": "Project",
+      "commandLineArgs": "input.bin output.txt"
+    }
+  }
+}
